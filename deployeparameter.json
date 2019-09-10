@@ -21,7 +21,7 @@
             "value": "GET-PREREQ-vnetName"
         },
         "existingVirtualNetworkResourceGroup": {
-            "value": "aaa"
+            "value": "rg-praveen-vnetResourceGroupName"
         },
         "existingSubnetName": {
             "value": "GET-PREREQ-subnetName"
