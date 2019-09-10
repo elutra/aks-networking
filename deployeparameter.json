@@ -21,7 +21,7 @@
             "value": "GET-PREREQ-vnetName"
         },
         "existingVirtualNetworkResourceGroup": {
-            "value": ""
+            "value": "aaa"
         },
         "existingSubnetName": {
             "value": "GET-PREREQ-subnetName"
